@@ -64,11 +64,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 121);
+            this.label2.Location = new System.Drawing.Point(153, 121);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(126, 13);
+            this.label2.Size = new System.Drawing.Size(124, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Created BY i1470s#0396";
+            this.label2.Text = "Created By i1470s#0396";
             // 
             // Form1
             // 
